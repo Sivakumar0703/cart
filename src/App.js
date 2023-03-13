@@ -15,7 +15,7 @@ function App() {
 
   const perfume = [
     {
-      image: 'https://airdealbd.com/wp-content/uploads/2021/04/Royal-Mirage-5.jpg',
+      image: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51UcNqSxESS._SL1000_.jpg',
       perfume_name: 'Royal Mirage',
       price: 'Rs. 1800',
       
